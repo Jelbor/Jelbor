@@ -1,0 +1,212 @@
+.f, .i, .t, .y  { 
+	display: inline-block; 
+	background: url("../images/fity.JPG") no-repeat; 
+	overflow: hidden; 
+	text-indent: -9999px; 
+	text-align: left; 
+}
+.f { background-position: -1px -0px; width: 50px; height: 50px; }
+.i { background-position: -1px -56px; width: 50px; height: 50px; }
+.t { background-position: -1px -110px; width: 50px; height: 50px; }
+.y { background-position: -2px -163px; width: 50px; height: 50px; }
+h1 {
+	font-family: Consolas;
+	font-size: 40px;
+	color: white;
+	border: 5px outset black;
+	margin: 2px;
+	padding: 10px 10px 10px 85px;
+	background-color: black;
+	background-image: url("../images/ArsolarLOGO.JPG");
+	background-repeat: no-repeat;
+	background-size: 70px;
+}
+h2 {
+	color: black;
+	text-align: center;
+}
+body {
+	background-color: grey;
+}
+div {
+	color: white;
+	border: 1px solid black;
+	position: absolute;
+	left: 250px;
+	top: 382px;
+	width: 900px;
+	height: 150px;
+	overflow: auto;
+}	
+#div1 {
+	color: white;
+	font-size: 20px;
+	border: 0px hidden black;
+	background-color: black;
+	width: 100%;
+	height: 150px;
+	position: absolute;
+	left: 0px;
+	top: 1850px;
+}
+table {
+	position: fixed;
+	border: 1px solid black;
+	padding: 5px;
+	margin: 5px;
+	width: 225px;
+	height: 250px;
+	text-align: center;
+	font-size: 18px;
+	line-height: 5px;  
+}
+a {
+	color: black;
+	font-family: Cambria;
+	text-decoration: none;
+}
+a:hover {
+	color: white;
+}
+#a1 {
+	position: absolute;
+	left: 250px;
+	top: 105px;
+}
+#a2 {
+	position: absolute;
+	left: 250px;
+	top: 546px;
+}
+#a3 {
+	position: absolute;
+	left: 250px;
+	top: 866px;
+}
+#a4 {
+	position: absolute;
+	left: 250px;
+	top: 1186px;
+}
+#a5 {
+	position: absolute;
+	left: 250px;
+	top: 1506px;
+}
+#aA {
+	position: absolute;
+	left: 1162px;
+	top: 60px;
+}
+#aB {
+	color: white;
+}
+#aC	 {
+	text-align: center;
+	letter-spacing: 5px;
+	word-spacing: 8px;
+	background-color: black;
+	border-radius: 20px;
+	font-size: 30px;
+	font-family: Consolas;
+	color: white;
+	margin: 3px;
+	width: 900px;
+	height: 40px;
+	position: absolute;
+	top: 815px;
+	left: 247px;
+}
+#aC:hover {
+	background-color: white;
+	color: black;
+}
+#aD	 {
+	text-align: center;
+	letter-spacing: 5px;
+	word-spacing: 8px;
+	background-color: black;
+	border-radius: 20px;
+	font-size: 30px;
+	font-family: Consolas;
+	color: white;
+	margin: 3px;
+	width: 900px;
+	height: 40px;
+	position: absolute;
+	top: 1135px;
+	left: 247px;
+}
+#aD:hover {
+	background-color: white;
+	color: black;
+}
+#aE	 {
+	text-align: center;
+	letter-spacing: 5px;
+	word-spacing: 8px;
+	background-color: black;
+	border-radius: 20px;
+	font-size: 30px;
+	font-family: Consolas;
+	color: white;
+	margin: 3px;
+	width: 900px;
+	height: 40px;
+	position: absolute;
+	top: 1455px;
+	left: 247px;
+}
+#aE:hover {
+	background-color: white;
+	color: black;
+}
+#aF	 {
+	text-align: center;
+	letter-spacing: 5px;
+	word-spacing: 8px;
+	background-color: black;
+	border-radius: 20px;
+	font-size: 30px;
+	font-family: Consolas;
+	color: white;
+	margin: 3px;
+	width: 900px;
+	height: 40px;
+	position: absolute;
+	top: 1775px;
+	left: 247px;
+}
+#aF:hover {
+	background-color: white;
+	color: black;
+}
+p {
+	text-align: center;
+	font-size: 20px;
+	color: black;
+}
+#t1 {
+	position: fixed;
+	border: 1px solid black;
+	padding: 5px;
+	margin: 5px;
+	width: 220px;
+	height: 50px;
+	top: 388px;
+	left: 5px;
+}
+#t2 {
+	border: 1px solid grey; 
+	position: fixed;
+	bottom: 5px;
+	left: 5px;
+	width: 99%;
+	height: 30px;
+	background-color: black;
+	margin: 2px;
+	z-index: 2;
+}
+
+
+	
